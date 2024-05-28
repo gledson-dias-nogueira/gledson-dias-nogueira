@@ -4,7 +4,7 @@ Sou Analista de Dados, formado pela EBAC - Escola Britânica de Artes Criativas 
 
 Neste meu perfil é possível encontrar alguns de meus projetos e também Atividades que demonstram meu conhecimento em diversas áreas da Analise de Dados: 
 
-Projetos: https://github.com/gledson-dias-nogueira?tab=stars
+Projetos: https://github.com/stars/gledson-dias-nogueira/lists/projetos
 
 Atividades: 
 
