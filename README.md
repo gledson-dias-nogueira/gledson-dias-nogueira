@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá. Bem vindo! 👋
 
+Sou Analista de Dados, formado pela EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+
+Neste meu perfil é possível encontrar alguns de meus projetos e também Atividades que demonstram meu conhecimento em diversas áreas da Analise de Dados: 
+
+Projetos: https://github.com/gledson-dias-nogueira?tab=stars
 <!--
 **gledson-dias-nogueira/gledson-dias-nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
