@@ -7,34 +7,28 @@ Neste meu perfil é possível encontrar alguns de meus projetos e também Ativid
 
 
 Projetos: https://github.com/stars/gledson-dias-nogueira/lists/projetos
-.
-.
-.
-.
-.
+
 Atividades: 
-.
-.
+
 
 
 Criação de Obejtos: https://github.com/stars/gledson-dias-nogueira/lists/cria%C3%A7%C3%A3o-de-objetos
-.
+
 
 Raspagem de Dados: https://github.com/stars/gledson-dias-nogueira/lists/raspagem-de-dados
-.
+
 
 Data Wrangling: https://github.com/stars/gledson-dias-nogueira/lists/explora%C3%A7%C3%A3o-de-dados
-.
+
 
 Data Visual: https://github.com/stars/gledson-dias-nogueira/lists/data-visual
-.
 
 
-Controle de versões: https://github.com/stars/gledson-dias-nogueira/lists/git-hub
-.
+
+Controle de versões: https://github.com/stars/gledson-dias-nogueira/lists/git-hub.
 
 Numpy: https://github.com/stars/gledson-dias-nogueira/lists/numpy
-.
+
 
 Machine Learning: https://github.com/stars/gledson-dias-nogueira/lists/machine-learning
 
@@ -48,7 +42,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about .fffff..
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
