@@ -5,6 +5,24 @@ Sou Analista de Dados, formado pela EBAC - Escola Britânica de Artes Criativas 
 Neste meu perfil é possível encontrar alguns de meus projetos e também Atividades que demonstram meu conhecimento em diversas áreas da Analise de Dados: 
 
 Projetos: https://github.com/gledson-dias-nogueira?tab=stars
+
+Atividades: 
+
+Criação de Obejtos: https://github.com/stars/gledson-dias-nogueira/lists/cria%C3%A7%C3%A3o-de-objetos
+
+Raspagem de Dados: https://github.com/stars/gledson-dias-nogueira/lists/raspagem-de-dados
+
+Data Wrangling: https://github.com/stars/gledson-dias-nogueira/lists/explora%C3%A7%C3%A3o-de-dados
+
+Data Visual: https://github.com/stars/gledson-dias-nogueira/lists/data-visual
+
+Controle de versões: https://github.com/stars/gledson-dias-nogueira/lists/git-hub
+
+Numpy: https://github.com/stars/gledson-dias-nogueira/lists/numpy
+
+Machine Learning: https://github.com/stars/gledson-dias-nogueira/lists/machine-learning
+
+
 <!--
 **gledson-dias-nogueira/gledson-dias-nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
