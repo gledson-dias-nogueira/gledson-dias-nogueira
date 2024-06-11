@@ -6,11 +6,11 @@ Neste meu perfil é possível encontrar alguns de meus projetos e também Ativid
 
 
 
-Projetos: 
+**PROJETOS**: 
 
 [![Projetos](https://github.com/gledson-dias-nogueira/imagens/blob/main/projetos.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/projetos)
 
-Atividades: 
+##**ATIVIDADES**:
 
 
 
@@ -20,6 +20,7 @@ Criação de Obejtos:
 
 
 Raspagem de Dados:
+
 [![Raspagem](https://github.com/gledson-dias-nogueira/imagens/blob/main/Raspagm.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/raspagem-de-dados)
 
 
@@ -39,10 +40,13 @@ Controle de versões:
 [![Versoes](https://github.com/gledson-dias-nogueira/imagens/blob/main/Versoes.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/git-hub.)
 
 Numpy: 
+
 [![Numpy](https://github.com/gledson-dias-nogueira/imagens/blob/main/Numpy.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/numpy)
 
 
-Machine Learning: [![Machine Learning](https://github.com/gledson-dias-nogueira/imagens/blob/main/Machine%20Learning.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/machine-learning)
+Machine Learning:
+
+[![Machine Learning](https://github.com/gledson-dias-nogueira/imagens/blob/main/Machine%20Learning.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/machine-learning)
 
 
 <!--
