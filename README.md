@@ -16,25 +16,33 @@ Atividades:
 
 Criação de Obejtos: 
 
-[![Meus Projetos](https://github.com/gledson-dias-nogueira/imagens/blob/main/POO.jpg)](https://github.com/stars/gledson-dias-nogueira/lists/criação-de-objetos)
+[![Orientacao a objetos](https://github.com/gledson-dias-nogueira/imagens/blob/main/POO.jpg)](https://github.com/stars/gledson-dias-nogueira/lists/criação-de-objetos)
 
 
-Raspagem de Dados: https://github.com/stars/gledson-dias-nogueira/lists/raspagem-de-dados
+Raspagem de Dados:
+[![Raspagem](https://github.com/gledson-dias-nogueira/imagens/blob/main/Raspagm.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/raspagem-de-dados)
 
 
-Data Wrangling: https://github.com/stars/gledson-dias-nogueira/lists/explora%C3%A7%C3%A3o-de-dados
+Data Wrangling: 
+
+[![Wrangling](https://github.com/gledson-dias-nogueira/imagens/blob/main/data%20wranglin.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/explora%C3%A7%C3%A3o-de-dados)
 
 
-Data Visual: https://github.com/stars/gledson-dias-nogueira/lists/data-visual
+Data Visual:
+
+[![Visual](https://github.com/gledson-dias-nogueira/imagens/blob/main/Visual.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/data-visual)
 
 
 
-Controle de versões: https://github.com/stars/gledson-dias-nogueira/lists/git-hub.
+Controle de versões: 
 
-Numpy: https://github.com/stars/gledson-dias-nogueira/lists/numpy
+[![Versoes](https://github.com/gledson-dias-nogueira/imagens/blob/main/Versoes.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/git-hub.)
+
+Numpy: 
+[![Numpy](https://github.com/gledson-dias-nogueira/imagens/blob/main/Numpy.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/numpy)
 
 
-Machine Learning: https://github.com/stars/gledson-dias-nogueira/lists/machine-learning
+Machine Learning: [![Machine Learning](https://github.com/gledson-dias-nogueira/imagens/blob/main/Machine%20Learning.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/machine-learning)
 
 
 <!--
