@@ -14,7 +14,7 @@ Atividades:
 
 Criação de Obejtos: 
 
-[![Meus Projetos](https://github.com/gledson-dias-nogueira/imagens/blob/main/bd2811a1f13c1e2f4d6711bdc80cc1c7.jpg)](https://github.com/stars/gledson-dias-nogueira/lists/criação-de-objetos)
+[![Meus Projetos](https://github.com/gledson-dias-nogueira/imagens/blob/main/POO.jpg)](https://github.com/stars/gledson-dias-nogueira/lists/criação-de-objetos)
 
 
 Raspagem de Dados: https://github.com/stars/gledson-dias-nogueira/lists/raspagem-de-dados
