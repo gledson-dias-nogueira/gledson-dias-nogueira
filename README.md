@@ -8,7 +8,7 @@ Neste meu perfil é possível encontrar alguns de meus projetos e também Ativid
 
 Projetos: 
 
-[![Projetos].(https://github.com/gledson-dias-nogueira/imagens/blob/main/projetos.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/projetos)
+[![Projetos](https://github.com/gledson-dias-nogueira/imagens/blob/main/projetos.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/projetos)
 
 Atividades: 
 
