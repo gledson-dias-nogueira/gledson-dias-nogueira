@@ -13,8 +13,7 @@ Atividades:
 
 
 Criação de Obejtos: https://github.com/stars/gledson-dias-nogueira/lists/cria%C3%A7%C3%A3o-de-objetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=[pedrogithub2406](https://github.com/stars/gledson-dias-nogueira/lists/projetos).github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[Veja meus projetos de criação de objetos](https://github.com/stars/gledson-dias-nogueira/lists/criação-de-objetos)
 
 
 
