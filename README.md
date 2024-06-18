@@ -34,7 +34,7 @@ Data Wrangling:
 
 Data Visual:
 
-[![Visual](https://github.com/gledson-dias-nogueira/imagens/blob/main/Visual.JPG)](https://github.com/stars/gledson-dias-nogueira/lists/data-visual)
+[![Visual](https://github.com/gledson-dias-nogueira/imagens/blob/main/Visual.JPG)](https://app.powerbi.com/view?r=eyJrIjoiYmZhZTQ5ZDAtM2Q2Yy00M2Y4LTgzNzMtYjNiN2QwZjBkNjM4IiwidCI6ImY1ZWMxNzViLWQxYjItNDE2My05MWE2LTU4NGQyM2RjM2FlOSJ9)
 
 
 
